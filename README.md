@@ -2,7 +2,7 @@
 
 Welcome to my new repository dedicated for AI/ML research and development!
 
-🔭 I'm very passionate about Artificial Intelligence, Deep Learning, Machine Learning, Time-series analytics Computer Vision and Natural Language Processing. I have previously worked in the fields of Control Systems Design, Signal and Image Processing, Pattern Recognition, Autonomous Driving Solutions and Statistical Analysis. 
+🔭 I'm very passionate about Artificial Intelligence, Deep Learning, Machine Learning, Time-series analytics, Computer Vision and Natural Language Processing. I have previously worked in the fields of Control Systems Design, Signal and Image Processing, Pattern Recognition, Autonomous Driving Solutions and Statistical Analysis. 
 
 💬 My aim is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
