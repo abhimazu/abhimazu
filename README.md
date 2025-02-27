@@ -10,7 +10,7 @@ Welcome to my new repository dedicated for AI/ML research and development!
 
 ### Bio
 
-👨🏻‍💻 Currently, I am the Head of MLOps and CLoud at Binoloop, where I lead the optimized deployment of an AI SaaS platform focusing on Procurement Automation. My main skill is to convert POCs into production grade systems. Previously, I was part of the IOTG Customer Solutions and Developer Enabling group at Intel, where I specialized in designing AI applications and pipelines that optimize deployment for a wide range of applications including Natural Language Processing, Computer Vision and Time-series analytics. Throughout my career, I have worked on architecting various applications and frameworks that enables easy configuration and optimizes performance.
+👨🏻‍💻 Currently, I am building TransformerLab, an open source toolkit to train and evaluate LLMs. My primary skill is to convert POCs into production-grade systems. Previously, I was the Head of MLOps @ Binoloop and before that, I was part of the IOTG Customer Solutions and Developer Enabling group at Intel, where I specialized in designing AI applications and pipelines that optimize deployment for a wide range of applications including Natural Language Processing, Computer Vision and Time-series analytics. Throughout my career, I have worked on architecting various applications and frameworks that enables easy configuration and optimize performance.
 
 🌱 I'm currently pursuing an initiative "Industrodrome" that has projects related to AI, ML and Cloud Deployment along with aggregating research problems in the industry and helping learners to apply their learnings to solve real-world problems by contributing to open source community. 
 
